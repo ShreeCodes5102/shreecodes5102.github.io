@@ -1,6 +1,7 @@
 
 import './App.css';
 import { content } from './content';
+import hpeLogo from './assets/HPE-logo.png';
 
 function TechStack() {
   return (
@@ -101,7 +102,7 @@ function About() {
 function Experience() {
   // Example company logo URLs (replace with real ones if available)
   const logos = {
-    "Hewlett Packard Enterprise": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hewlett_Packard_Enterprise_logo.svg"
+    "Hewlett Packard Enterprise": hpeLogo
   };
   return (
     <section className="experience">
