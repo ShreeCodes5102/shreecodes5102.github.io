@@ -14,6 +14,7 @@ export const content = {
       period: "Sep 2022 – Present",
       details: [
         "Currently developing a Morpheus plugin to support server and cluster lifecycle management.",
+        "Designed and implemented the \"Remove Server\" functionality, enabling effective server lifecycle management for VME hosts in the PCBE system.",
         "Architected and deployed secure RESTful microservices in Golang using Docker, Kubernetes, and Kafka for infrastructure credential management and automated compliance checks, improving troubleshooting efficiency and security posture by 90%.",
         "Developed robust APIs for password synchronization validation and compliance enforcement with 80%+ unit test coverage, improving system reliability and maintainability.",
         "Enhanced replicated storage systems by enabling configurable data path proximity, improving flexibility and operational performance for large-scale distributed deployments.",
