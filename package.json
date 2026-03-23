@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ShreeCode5102.github.io/ShreeCode5102.github.io",
+  "homepage": "https://shreecodes5102.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
